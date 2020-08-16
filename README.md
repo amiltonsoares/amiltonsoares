@@ -4,7 +4,7 @@ My name is Amilton Soares and I have a bachelor's degree in Information Systems 
 
 - 🔭 Currently working with development at www.inovesistemas.com.br
 - 📗 I'm learning nodejs, reactjs and react native.
-- Do you have a challenge for me? A job? Send to amilton@inovesistemas.com.br
+- 💬 Do you have a challenge for me? A job? Send to amilton@inovesistemas.com.br
 
 ## Português :brazil:
 
